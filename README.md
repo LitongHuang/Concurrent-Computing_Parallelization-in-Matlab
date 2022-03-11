@@ -1,8 +1,8 @@
 # Concurrent-Computing_Parallelization-in-Matlab
-Course: Concurent Computing;
-Professor: Jasmin Jahic;
-Group members: Litong Huang, Ammar Alkhaled;
-Group #3
+-Course: Concurent Computing;
+-Professor: Jasmin Jahic;
+-Group members: Litong Huang, Ammar Alkhaled;
+-Group #3
 
 Implementation:
 - Sequential Vs Parallel Computing:
@@ -15,6 +15,6 @@ EX2
 - Scalability and Limits:
 EX2
 
--Thread-Based and Process-Based Environments
+- Thread-Based and Process-Based Environments
 EX3
 
