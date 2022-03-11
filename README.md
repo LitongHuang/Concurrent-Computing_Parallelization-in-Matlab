@@ -1,8 +1,9 @@
 # Concurrent-Computing_Parallelization-in-Matlab
--Course: Concurent Computing;
--Professor: Jasmin Jahic;
--Group members: Litong Huang, Ammar Alkhaled;
--Group #3
+
+Course: Concurent Computing;
+Professor: Jasmin Jahic;
+Group members: Litong Huang, Ammar Alkhaled;
+Group #3
 
 Implementation:
 - Sequential Vs Parallel Computing:
