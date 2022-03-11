@@ -9,7 +9,7 @@ Implementation:
 EX1_1
 
 - Performance Speed-Up:
-EX1_2
+EX1_2;
 EX2
 
 - Scalability and Limits:
